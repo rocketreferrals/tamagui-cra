@@ -1,0 +1,1 @@
+./src/tamagui.config.ts
